@@ -1,16 +1,5 @@
 # quotter
 
-A new Flutter project.
+- [Flutter Create Certification](https://www.credential.net/a0rdblls?key=8938a64459cae1a2484b625f37a1cea42a09884bd7dd077ad9ab8735f93ad40a)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
